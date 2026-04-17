@@ -1,8 +1,18 @@
-# Hey, I'm Daz  
-Self-taught tinkerer diving into reverse engineering, hardware analysis, and pentesting basics.  
-- Soldering & electronics assembly (IPC cert)  
-- Basic Python/Rust scripting  
-- CTF practice & low-level debugging incoming  
-Coventry, UK | Open to junior RE/pentest roles or collabs  
+# Hey, I'm Daz
 
-Projects: Hardware teardowns + write-ups coming soon.  
+Aspiring OSINT Analyst.
+
+### Current Focus
+- Learning open-source intelligence (OSINT) collection and basic analysis  
+- Python & Bash scripting for simple automation  
+
+### Skills
+- SBT Introduction to OSINT (Certified 2026)  
+- Google Foundations of Cybersecurity  
+- Linux environments and basic scripting  
+
+### Portfolio
+- First learning project in progress (April 2026)  
+
+### Open To
+Junior OSINT or entry-level intelligence roles. Happy to collaborate on beginner OSINT projects.
